@@ -1,13 +1,13 @@
 name = "FabricBetterGrass"
-filename = "BetterGrassify-1.5.1+fabric.1.21.4.jar"
+filename = "BetterGrassify-1.7.0+fabric.1.21.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/m5T5xmUy/versions/aisKCzG8/BetterGrassify-1.5.1%2Bfabric.1.21.4.jar"
+url = "https://cdn.modrinth.com/data/m5T5xmUy/versions/HxwKuBEU/BetterGrassify-1.7.0%2Bfabric.1.21.4.jar"
 hash-format = "sha512"
-hash = "46dbc3fe8f285b64654d411116f1535d8aea040bdbfcc5812f6b73f5b64a93a7ff7a6d7de4b17d3c30df1ab54aef82791158c3419437225a843aa40e540a7cc7"
+hash = "5ae1d24c3917c2e7b936c2b57cbfbb5b4b5f20ecc03191454a5255390a69dcdd96b6c7983036c1759c9cec4fbe48ab5077db34e17116b71ffe560ffe73e614b9"
 
 [update]
 [update.modrinth]
 mod-id = "m5T5xmUy"
-version = "aisKCzG8"
+version = "HxwKuBEU"
