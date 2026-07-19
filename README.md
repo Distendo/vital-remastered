@@ -4,15 +4,14 @@
   </a>
   <br />
   <a href="https://modrinth.com/modpack/vital"><img src="https://raw.githubusercontent.com/intergrav/branding/main/vital/vital-badge-modrinth.svg" alt="Available on Modrinth"></a>
-  <a href="https://discord.gg/wncdz7e8jy"><img src="https://raw.githubusercontent.com/intergrav/branding/main/vital/vital-badge-discord.svg" alt="Chat on Discord"></a>
   <br />
   <p>
     Unofficial alternative to the Essential mod with world hosting features, free cosmetics, and much more! 
     <br />
     <a href="https://github.com/intergrav/vital/wiki">Explore the wiki</a>
-    ·
+    .
     <a href="https://github.com/intergrav/vital/issues">Report Bugs</a>
-    ·
+    .
     <a href="https://github.com/intergrav/vital/issues">Request Features</a>
   </p>
   <br />
@@ -22,13 +21,13 @@ Vital is a modpack designed as an **alternative to [Essential](https://modrinth.
 
 # ⭐ Features
 
-### 🔷 Essential alternatives
+### Essential alternatives
 
 Vital contains quite a few mods to replace [Essential](https://modrinth.com/mod/essential)'s features. These are not as consistent as Essential however they are still very simple to use, and some even have upsides over Essential's offering:
 
 - Free world hosting that's secure and private, and does not require the other players to use it. 
   - Simply click "Open to Friends" in the menu to share to your World Host friends, which they can access through the multiplayer menu. You can also type `/worldhost ip` to get an IP to send to people who aren't using the mod.
-- *([Cosmetica](https://modrinth.com/mod/cosmetica) currently missing in latest Vital versions)* Completely free cosmetics from a marketplace full of community creations. Any other Vital, Cosmetica, or Fabulously Optimized user can see these cosmetics.
+- *(Cosmetica currently missing in latest Vital versions)* Completely free cosmetics from a marketplace full of community creations. Any other Vital, Cosmetica, or Fabulously Optimized user can see these cosmetics.
   - You can access these in the mod menu or settings menu. You could also visit the [Cosmetica website](https://cosmetica.cc).
 - A bunch of neat skin management features.
   - Accessible through the main menu.
@@ -39,11 +38,11 @@ Vital contains quite a few mods to replace [Essential](https://modrinth.com/mod/
 - **Bonus**: Comes with the Reimagined GUI [Dark](https://modrinth.com/resourcepack/reimaginedguidark) and [Light](https://modrinth.com/resourcepack/reimaginedguilight) versions to have a similar aesthetic to Essential.
   - This is not enabled by default, however, and you will have to enable it in the resource pack menu.
 
-### 🚀 Major performance improvement
+### Major performance improvement
 
 Vital is based on and kept in sync with the [Additive](https://modrinth.com/modpack/Additive) modpack, which is based on the [Adrenaline](https://modrinth.com/modpack/adrenaline) modpack. Adrenaline's aim is to significantly improve rendering and game logic performance, along with memory and hardware usage, without compromising on the game's looks or features in any way. This is done with various optimization mods that are actively tested for stability and improvement. Some mods are also pre-configured. Adrenaline wouldn't exist without projects like [Sodium](https://modrinth.com/mod/sodium), so I advise you to donate to mod authors and contributors if you can.
 
-### 🔍 OptiFine alternatives
+### OptiFine alternatives
 
 Vital is based on and kept in sync with the [Additive](https://modrinth.com/modpack/Additive) modpack, which utilizes various mods that offers the same features that OptiFine did while also being modular so that you can remove features you don't want or features that are incompatible with other mods. This includes, but is not limited to:
 
@@ -55,7 +54,7 @@ Vital is based on and kept in sync with the [Additive](https://modrinth.com/modp
 - OptiFine donator capes and free capes
 - [All OptiFine features and more information on the Additive wiki](https://github.com/skywardmc/additive/wiki/Give-up-OptiFine)
 
-### 💡 Other things
+### Other things
 
 Vital also includes some extra features unrelated to OptiFine, although I aim to keep this list of mods minimal. Mods are suitable for the "other features" section if they are lightweight and unobtrusive. This includes things like:
 
@@ -63,7 +62,7 @@ Vital also includes some extra features unrelated to OptiFine, although I aim to
 - Borderless fullscreen window setting in the video settings
 - [All other features and more information on the Additive wiki](https://github.com/skywardmc/additive/wiki/Extra-features)
 
-### ⚙️ Source-available
+### Source-available
 
 All mods in Vital are either open-source or source-available, which means you can view the code of mods and see exactly what they are doing. Vital is also available as [packwiz projects on GitHub](https://github.com/intergrav/vital) so that you can easily view what's being changed, contribute if you would like to, or fork the modpack to create your own project. If you would like to view the mods shipped with Vital, simply look at the dependencies in the Modrinth page or look in the Git repository.
 
@@ -90,4 +89,3 @@ Experiencing bugs, crashes, or other issues? Feel free to open an issue on the [
 # ❓ Frequently Asked Questions
 
 For a few frequently asked questions, along with tons of other information, consider visiting the [wiki](https://github.com/intergrav/Vital/wiki). It has a few other helpful resources that I suggest you read, such as troubleshooting info and more. This wiki is often updated with new information.
-
