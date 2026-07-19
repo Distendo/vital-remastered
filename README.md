@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://github.com/intergrav/vital">
-    <img src="https://raw.githubusercontent.com/intergrav/branding/main/vital/vital-banner.svg" alt="Vital">
+    <img src="https://raw.githubusercontent.com/intergrav/branding/main/vital/vital-banner.svg" alt="Vital Remastered">
   </a>
   <br />
   <a href="https://modrinth.com/modpack/vital"><img src="https://raw.githubusercontent.com/intergrav/branding/main/vital/vital-badge-modrinth.svg" alt="Available on Modrinth"></a>
   <a href="https://discord.gg/wncdz7e8jy"><img src="https://raw.githubusercontent.com/intergrav/branding/main/vital/vital-badge-discord.svg" alt="Chat on Discord"></a>
   <br />
   <p>
-    Unofficial alternative to the Essential mod with world hosting features, free cosmetics, and much more!
+    Unofficial alternative to the Essential mod with world hosting features, free cosmetics, and much more! 
     <br />
     <a href="https://github.com/intergrav/vital/wiki">Explore the wiki</a>
     ·
